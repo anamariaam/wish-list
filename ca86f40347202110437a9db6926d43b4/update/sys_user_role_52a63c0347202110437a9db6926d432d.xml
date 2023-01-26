@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_931012_wish_list.user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>x_931012_wish_list.user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2023-01-26 20:17:22</sys_created_on>
+        <sys_id>52a63c0347202110437a9db6926d432d</sys_id>
+        <sys_name>x_931012_wish_list.user</sys_name>
+        <sys_package display_value="Wish List" source="x_931012_wish_list">ca86f40347202110437a9db6926d43b4</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Wish List">ca86f40347202110437a9db6926d43b4</sys_scope>
+        <sys_update_name>sys_user_role_52a63c0347202110437a9db6926d432d</sys_update_name>
+    </sys_user_role>
+</record_update>
